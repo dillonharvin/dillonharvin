@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-My name is Kevin, and I've operated as a senior full-stack developer for the past 8 years. Combined with my B.Sc. in Computer Engineering, those years have allowed me to build skills as a full-stack developer, specializing in React and other JS frameworks. I really love my work and that passion is reflected in the quality of my code.
+My name is Dillo, and I've operated as a senior full-stack developer for the past 8 years. Combined with my B.Sc. in Computer Engineering, those years have allowed me to build skills as a full-stack developer, specializing in React and other JS frameworks. I really love my work and that passion is reflected in the quality of my code.
 
 Tech Stacks:
-- React, Angular, Vue, Next, Node, Express, PHP, Laravel, Tailwind, Material, Bootstrap, jQuery
+- React, Angular, Vue, Next, 
+- Node, Express, Tailwind, Material, Bootstrap, jQuery
 - RESTful API, GraphQL, 3rd party API integration
 - MongoDB, PostgreSQL, MySQL
 
